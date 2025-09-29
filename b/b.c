@@ -46,7 +46,7 @@ char	*ft_strjoin(char const *s1, char const *s2)
 
 	i1 = 0;
 	i2 = 0;
-	var = "aff_f"
+	var = "aff_f";
 	if (!s1 || !s2)
 		return (valid_str(s1, s2));
 	if (1)
